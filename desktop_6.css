@@ -1,0 +1,602 @@
+.desktop-6 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-6 .rectangle-42 {
+  opacity: 0.5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-6 .mos-burgers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Cherry Swash';
+  font-weight: 400;
+  font-size: 64px;
+  color: #FF8200;
+}
+.desktop-6 .place-orders {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-163 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: #FF8200;
+  position: relative;
+  margin-right: 26px;
+  display: flex;
+  padding: 18.5px 11.3px 22.5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 333px;
+  box-sizing: border-box;
+}
+.desktop-6 .menu {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-164 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  padding: 16.5px 0 24.5px 24.8px;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 333px;
+  box-sizing: border-box;
+}
+.desktop-6 .customers {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-165 {
+  border-radius: 100px;
+  border: 10px solid #FFFFFF;
+  background: #FF8200;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  padding: 16.5px 0 24.5px 8.5px;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 333px;
+  box-sizing: border-box;
+}
+.desktop-6 .orders {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-166 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: relative;
+  display: flex;
+  padding: 15.5px 0 25.5px 10.4px;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 333px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-8 {
+  background: rgba(32, 32, 32, 0.7);
+  position: absolute;
+  left: 0px;
+  top: 135px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  padding: 26px 17px 25px 23px;
+  box-sizing: border-box;
+}
+.desktop-6 .name {
+  margin: 0 15px 0.8px 0;
+  display: inline-block;
+  width: 76.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .user-01 {
+  margin-top: 0.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-4 {
+  margin: 0 71.2px 13.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 326.5px;
+  box-sizing: border-box;
+}
+.desktop-6 .mobile-number {
+  margin: 0 15px 0.3px 0;
+  display: inline-block;
+  width: 234px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .container {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 398.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .container-5 {
+  border-radius: 15px;
+  background: #FFC68C;
+  position: absolute;
+  left: 23px;
+  top: 292px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 9.2px 0;
+  width: 708px;
+  box-sizing: border-box;
+}
+.desktop-6 .name-1 {
+  margin: 0 15px 0.8px 0;
+  display: inline-block;
+  width: 76.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .user-02 {
+  margin-top: 0.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-11 {
+  margin: 0 67.7px 13.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 330px;
+  box-sizing: border-box;
+}
+.desktop-6 .mobile-number-1 {
+  margin: 0 15px 0.3px 0;
+  display: inline-block;
+  width: 234px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .container-1 {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 398.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .group-51 {
+  border-radius: 15px;
+  background: #FFC68C;
+  position: absolute;
+  left: 23px;
+  top: 413px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 9.2px 0;
+  width: 708px;
+  box-sizing: border-box;
+}
+.desktop-6 .name-2 {
+  margin: 0 15px 0.8px 0;
+  display: inline-block;
+  width: 76.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .user-03 {
+  margin-top: 0.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-10 {
+  margin: 0 66.9px 13.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 330.8px;
+  box-sizing: border-box;
+}
+.desktop-6 .mobile-number-2 {
+  margin: 0 15px 0.3px 0;
+  display: inline-block;
+  width: 234px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .container-2 {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 398.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .group-52 {
+  border-radius: 15px;
+  background: #FFC68C;
+  position: absolute;
+  left: 23px;
+  bottom: 394.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 9.2px 0;
+  width: 708px;
+  box-sizing: border-box;
+}
+.desktop-6 .name-3 {
+  margin: 0 15px 0.8px 0;
+  display: inline-block;
+  width: 76.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .user-04 {
+  margin-top: 0.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-7 {
+  margin: 0 66.5px 13.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 331.2px;
+  box-sizing: border-box;
+}
+.desktop-6 .mobile-number-3 {
+  margin: 0 15px 0.3px 0;
+  display: inline-block;
+  width: 234px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .container-3 {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 398.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .group-53 {
+  border-radius: 15px;
+  background: #FFC68C;
+  position: absolute;
+  left: 23px;
+  bottom: 273.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 9.2px 0;
+  width: 708px;
+  box-sizing: border-box;
+}
+.desktop-6 .name-4 {
+  margin: 0 15px 0.8px 0;
+  display: inline-block;
+  width: 76.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .user-05 {
+  margin-top: 0.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container {
+  margin: 0 67.3px 13.1px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 330.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .mobile-number-4 {
+  margin: 0 15px 0.3px 0;
+  display: inline-block;
+  width: 234px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.desktop-6 .container-4 {
+  margin-top: 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 25px;
+  color: #5A5A5A;
+}
+.desktop-6 .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 398.4px;
+  box-sizing: border-box;
+}
+.desktop-6 .group-54 {
+  border-radius: 15px;
+  background: #FFC68C;
+  position: absolute;
+  left: 23px;
+  bottom: 152.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 0 9.2px 0;
+  width: 708px;
+  box-sizing: border-box;
+}
+.desktop-6 .rectangle-44 {
+  opacity: 0.65;
+  border-radius: 100px;
+  position: absolute;
+  right: 7px;
+  bottom: 0px;
+  width: 686px;
+  height: 724px;
+}
+.desktop-6 .customer-id {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-6 .group-122 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  right: 25px;
+  bottom: 441px;
+  padding: 17.4px 35.4px 10.6px 35.4px;
+  width: 659px;
+  box-sizing: border-box;
+}
+.desktop-6 .contact-number {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-6 .group-121 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  top: 438px;
+  right: 25px;
+  padding: 17.4px 35.4px 10.6px 35.4px;
+  width: 659px;
+  box-sizing: border-box;
+}
+.desktop-6 .logout {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.desktop-6 .group-119 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  right: 41px;
+  bottom: 30px;
+  display: flex;
+  padding: 15.5px 0 25.5px 25.8px;
+  width: 341px;
+  box-sizing: border-box;
+}
+.desktop-6 .customer-name {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-6 .group-46 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  top: 361px;
+  right: 25px;
+  padding: 17.4px 35.4px 10.6px 35.4px;
+  width: 659px;
+  box-sizing: border-box;
+}
+.desktop-6 .email {
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-6 .group-123 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  right: 21px;
+  bottom: 364px;
+  padding: 17.4px 35.4px 10.6px 35.4px;
+  width: 659px;
+  box-sizing: border-box;
+}
+.desktop-6 .add-new-customer {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-120 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  right: 21px;
+  bottom: 259px;
+  display: flex;
+  padding: 17.5px 29.2px 23.5px 38px;
+  box-sizing: border-box;
+}
+.desktop-6 .update {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-58 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  right: 47.4px;
+  bottom: 125px;
+  display: flex;
+  padding: 16.5px 0 24.5px 13px;
+  width: 354px;
+  box-sizing: border-box;
+}
+.desktop-6 .delete {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.desktop-6 .group-57 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  right: 361.8px;
+  bottom: 125px;
+  display: flex;
+  padding: 16.5px 7px 24.5px 0;
+  width: 372px;
+  box-sizing: border-box;
+}
+.desktop-6 {
+  background: #FFFFFF;
+  padding: 27.5px 43px 0 43px;
+  width: 1440px;
+  box-sizing: border-box;
+}

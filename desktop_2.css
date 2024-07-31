@@ -1,0 +1,130 @@
+.desktop-2 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-2 .rectangle-42 {
+  opacity: 0.5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-2 .mos-burgers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Cherry Swash';
+  font-weight: 400;
+  font-size: 64px;
+  color: #FF8200;
+}
+.desktop-2 .rectangle-44 {
+  opacity: 0.65;
+  border-radius: 100px;
+  background: #463224;
+  position: absolute;
+  left: 52px;
+  right: 53px;
+  bottom: 70px;
+  height: 814px;
+}
+.desktop-2 .create-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 50px;
+  color: #000000;
+}
+.desktop-2 .group-153 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  right: 229px;
+  bottom: 288px;
+  display: flex;
+  padding: 13.5px 12.6px 10.5px 7px;
+  box-sizing: border-box;
+}
+.desktop-2 .login {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 64px;
+  color: #000000;
+}
+.desktop-2 .group-155 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: absolute;
+  left: 221px;
+  bottom: 288px;
+  display: flex;
+  padding: 0 0 8px 4.8px;
+  width: 398px;
+  box-sizing: border-box;
+}
+.desktop-2 .rectangle-45 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  left: 0px;
+  right: 1px;
+  bottom: 0px;
+  height: 91px;
+}
+.desktop-2 .rectangle-41 {
+  opacity: 0.5;
+  border-radius: 23px;
+  background: #FF8200;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  right: 0px;
+  height: 91px;
+}
+.desktop-2 .cashier-id {
+  margin-bottom: 106px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-2 .password {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.desktop-2 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.desktop-2 .group-167 {
+  border-radius: 23px;
+  position: absolute;
+  left: 50%;
+  top: 312px;
+  translate: -50% 0;
+  padding: 28.6px 67px 21.4px 67px;
+  width: 1084px;
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #FFFFFF;
+  padding: 27.5px 43px 0 43px;
+  width: 1440px;
+  box-sizing: border-box;
+}

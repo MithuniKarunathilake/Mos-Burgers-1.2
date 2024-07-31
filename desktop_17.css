@@ -1,0 +1,32 @@
+.desktop-17 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-17 .rectangle-42 {
+  opacity: 0.5;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-17 .mos-burgers {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Cherry Swash';
+  font-weight: 400;
+  font-size: 64px;
+  color: #FF8200;
+}
+.desktop-17 {
+  background: #FFFFFF;
+  padding: 27.5px 43px 0 43px;
+  width: 1440px;
+  box-sizing: border-box;
+}

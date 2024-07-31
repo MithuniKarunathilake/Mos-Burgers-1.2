@@ -1,0 +1,95 @@
+.desktop-1 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.desktop-1 .mos-burgers {
+  backdrop-filter: blur(2px);
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 0 44px 208.4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Cherry Swash';
+  font-weight: 400;
+  font-size: 128px;
+  color: #FF8200;
+}
+.desktop-1 .start-here {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 2px solid #FFFFFF;
+  margin-bottom: 46.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 96px;
+  color: #FFF4D5;
+}
+.desktop-1 .rectangle-1 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 452px;
+  height: 123px;
+}
+.desktop-1 .admin {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 64px;
+  color: #000000;
+}
+.desktop-1 .group-149 {
+  position: relative;
+  margin: 0 28.5px 61px 0;
+  display: flex;
+  padding: 19px 0 27px 22.7px;
+  width: 452px;
+  box-sizing: border-box;
+}
+.desktop-1 .employee {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 64px;
+  color: #000000;
+}
+.desktop-1 .group-150 {
+  border-radius: 100px;
+  background: #FF8200;
+  position: relative;
+  margin-right: 28.5px;
+  display: flex;
+  padding: 19px 0 27px 36.2px;
+  width: 452px;
+  box-sizing: border-box;
+}
+.desktop-1 .group-151 {
+  opacity: 0.65;
+  border-radius: 100px;
+  background: #463224;
+  position: relative;
+  margin-right: 319.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 38.5px 0 56px 0;
+  width: 697px;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 70px 0 176px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
